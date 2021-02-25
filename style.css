@@ -320,21 +320,21 @@ h1 span{
     align-items: center;
 }
 
-.fact4{
-    /* background: #619699; */
-}
+/* .fact4{
+    background: #619699;
+} */
 
-.fact5{
-    /* background: #02505A; */
-}
+/* .fact5{
+    background: #02505A;
+} */
 
 .fact6{
     background: #619699;
 }
 
-.fact7{
-    /* background: #AFC8B5; */
-}
+/* .fact7{
+    background: #AFC8B5;
+} */
 
 .fact8{
     background: #AFC8B5;
@@ -703,7 +703,7 @@ footer{
     .nav-links{
         position: absolute;
         right: 0px;
-        height: 120vh;
+        height: 132vh;
         top: 8vh;
         background-color: #AFC8B5;
         display: flex;
