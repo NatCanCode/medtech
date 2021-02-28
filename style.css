@@ -501,7 +501,8 @@ button{
 /* FOOTER ================================== */
 #footer{
     min-height: 13vh;
-    font-size: clamp(11px 10vh, 14px);
+    font-size: clamp(8px 10vh, 11px);
+    line-height: 150%;
     background-color: #AFC8B5;
 }
 
@@ -521,6 +522,18 @@ footer{
     color: #02505A;
 }
 
+.footer li{
+    list-style: none;
+}
+
+.footer ul{
+    margin-top: 5%;
+}
+
+.footer .instagram{
+    margin-top: 8%;
+}
+
 /* MEDIA QUERIES ================================ */
 @media screen and (max-width: 1024px){
 
@@ -534,7 +547,7 @@ footer{
         flex-direction: column;
     }
     .footer a{
-        margin-top: 5%;
+        margin-top: 5O%;
     }
 
 /* homepage      */
